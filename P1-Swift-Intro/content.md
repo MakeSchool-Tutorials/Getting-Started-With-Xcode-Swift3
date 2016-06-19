@@ -102,4 +102,4 @@ Errors with suggestions have a white circle inside instead of an `!`. When you d
 
 Warnings do not stop your code from running. They are represented by a yellow triangle. Just like errors, they might have `Fix-it` suggestions.
 
-Another thing to note in this example is some warnings and errors will have multiple messages associated with them. See how we click the grey `2` in the example to view both messages.
+Another thing to note in this example is some warnings and errors will have multiple messages associated with them. See how we click the grey `2` in the example to view both messages?
