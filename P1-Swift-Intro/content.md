@@ -106,6 +106,6 @@ Another thing to note in this example is some warnings and errors will have mult
 
 # An important note
 
-There is a _ton_ of material in these playgrounds. We do not expect you to memorize it immediately! Go through each page and complete each challenge. We'll have time for group sessions to clear up any confusion and provide context for confusing concepts. If you can complete the challenges, you can move on to the next concept!
+There is a _ton_ of material in these playgrounds. We do not expect you to memorize it all! Go through each page and complete each challenge. We'll have time for group sessions to clear up any confusion and provide context for confusing concepts. If you can complete the challenges, you can move on to the next concept!
 
 You'll have more practice with each of these concepts throughout the course. A lot of times, these concepts make more sense when you can see them in-action in the context of a real app or game! So don't worry, work through the playgrounds and be comfortable with the fact that you might not memorize everything the first time through. Read carefully, complete the challenges, and you'll do just fine!
