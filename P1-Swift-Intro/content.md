@@ -3,7 +3,7 @@ title: "Swift Intro"
 slug: swift-introduction-playgrounds
 ---
 
-Download the _Swift Playground_ [here](https://github.com/MakeSchool-Tutorials/Swift-Language-Playgrounds/archive/master.zip). _Playgrounds_ are interactive coding environments that can contain instructions. You can think of it as a textbook you can code in!
+Download our _Swift Language Playground_ [here](https://github.com/MakeSchool-Tutorials/Swift-Language-Playgrounds/archive/swift3.zip). _Playgrounds_ are interactive coding environments that can contain instructions. You can think of it as a textbook you can code in!
 
 Go through the playground and you'll get a great introduction to a bunch of programming concepts in _Swift_, including:
 
