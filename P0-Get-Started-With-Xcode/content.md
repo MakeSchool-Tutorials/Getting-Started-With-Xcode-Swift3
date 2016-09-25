@@ -5,15 +5,13 @@ slug: installing-xcode
 
 This tutorial will guide you through installing Xcode and get you started on your iOS developer journey. You'll be learning the newest version of Swift, _Swift 3_ throughout your journey.
 
-You should be on OS X El Capitan (10.11.6 or higher) and have Xcode 8.0+. If you are *absolutely* positive you have these, go ahead on to the next page.
+You should be on macOS Sierra and have Xcode 8.0+. If you are *absolutely* positive you have these, go ahead on to the next page.
 
 Let's get our tools set up.
 
 # Checking OS X
 
-Press the 🍎 button on the top left of your Mac screen and click `About this Mac`. It should say `OS X El Capitan` and `Version 10.11.6` (or higher). If it does not say `OS X El Capitan`, go [here](https://itunes.apple.com/us/app/os-x-el-capitan/id1018109117?mt=12) and install El Capitan.
-
-If it does not say `Version 10.11.6` (or higher) but _does_ say `OS X El Capitan`, press the 🍎 button on the top left of your Mac screen and click `App Store`. Install the updates!
+Press the 🍎 button on the top left of your Mac screen and click `About this Mac`. It should say `macOS Sierra`. If it does not say `macOS Sierra`, go [here](https://itunes.apple.com/us/app/macos-sierra/id1127487414?mt=12) and install macOS Sierra.
 
 # Installing Xcode
 
